@@ -1,5 +1,5 @@
 # CreatIfrastructure
-You have been tasked with provisioning the required infrastructure and deploying a dummy application, along with the necessary supporting software.  This needs to be automated so that the infrastructure can be discarded as soon as the testing team finishes their tests and gathers their results.
+In this project, you’ll deploy web servers for a highly available web app using CloudFormation. You will write the code that creates and deploys the infrastructure and application for an Instagram-like app from the ground up. You will begin with deploying the networking components, followed by servers, security roles and software. The procedure you follow here will become part of your portfolio of cloud projects. You’ll do it exactly as it’s done on the job - following best practices and scripting as much as possible.
 
 .
 <img width="504" alt="Screenshot 2023-06-04 at 14 33 01" src="https://github.com/nourdevopss/CreatIfrastructure/assets/120333964/0dcf027b-11d5-46db-824e-15566d81134d">
